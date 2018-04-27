@@ -1,6 +1,7 @@
 {
   "name": "React Todo List App",
   "version": "0.1.0",
+  "author": "Muhumuza Brian",
   "private": true,
   "dependencies": {
     "react": "^16.3.2",
